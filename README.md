@@ -1,4 +1,4 @@
-# SideBySide3d-Unity [![Build Status](https://github.com/Aiei/SideBySide3d-Unity/releases)]
+# SideBySide3d-Unity [![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)]()
 Unity project to for displaying game into 3d monitor with side by side mechanism.
 
 ### How To Use Package
